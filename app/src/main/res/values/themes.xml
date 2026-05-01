@@ -1,0 +1,9 @@
+<resources>
+    <style name="Base.Theme.Uts_login_sederhana" parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="colorPrimary">#3F51B5</item>
+        <item name="colorPrimaryContainer">#5C6BC0</item>
+        <item name="colorOnPrimary">#FFFFFF</item>
+    </style>
+
+    <style name="Theme.Uts_login_sederhana" parent="Base.Theme.Uts_login_sederhana" />
+</resources>
